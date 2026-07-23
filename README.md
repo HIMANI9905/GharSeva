@@ -9,9 +9,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-v8-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3.4-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**"Har Ghar Ki Har Zarurat, Ek Click Door"** 🇮🇳
+### **"Har Ghar Ki Har Zarurat, Ek Click Door"** 🇮🇳
 
-*A modern, production-ready Indian Home Services Marketplace connecting households with verified local service professionals with AI Price Estimation and Real-time Socket tracking.*
+🔗 **[Click Here to Visit GitHub Repository](https://github.com/HIMANI9905/GharSeva)** 🚀
 
 ---
 
@@ -19,9 +19,9 @@
 
 ## 📌 Project Overview
 
-**GharSeva** is a full-stack, production-grade web application designed specifically for the Indian home services market. Built as an alternative to Urban Company, it provides a trustworthy, transparent, and seamless platform where customers can easily find, estimate prices for, and book verified local experts (plumbers, electricians, AC technicians, home cleaners, painters, and carpenters).
+**GharSeva** is a full-stack, production-grade web application designed specifically for the Indian home services market. Built as an authentic, modern platform for Indian households, it connects customers directly with verified local service professionals (plumbers, electricians, AC technicians, home cleaners, painters, and carpenters).
 
-The platform features an intelligent **AI Price Estimator Engine** that breaks down repair costs transparently, **Role-Based Access Control (RBAC)** for Customers, Service Helpers, and Admins, and **Real-Time WebSockets Communication**.
+The platform features an intelligent **AI Price Estimator Engine** that breaks down repair costs transparently, **Role-Based Access Control** for Customers and Service Helpers, and **Real-Time WebSockets Communication**.
 
 ---
 
@@ -39,9 +39,6 @@ The platform features an intelligent **AI Price Estimator Engine** that breaks d
 * **Dedicated Helper Dashboard**: Manage incoming service requests, accept or decline bookings, and track daily job schedules.
 * **Earnings & Performance Summary**: Monitor total completed jobs, customer ratings, and monthly revenue.
 * **Availability Toggle**: Enable or disable online availability for receiving new jobs.
-
-### 🛡️ For Platform Admins
-* **Admin Command Center**: Complete platform control panel to oversee users, manage service catalog prices, verify helper KYC credentials, and handle user complaints.
 
 ---
 
@@ -159,7 +156,12 @@ Visit `http://localhost:5173` in your browser to view the live application!
 | :--- | :--- | :--- |
 | **Customer** | `customer@demo.com` | `123456` |
 | **Service Helper** | `provider1@demo.com` | `123456` |
-| **Admin** | `admin@demo.com` | `123456` |
+
+---
+
+## 🔗 Links
+
+* **GitHub Repository**: [https://github.com/HIMANI9905/GharSeva](https://github.com/HIMANI9905/GharSeva)
 
 ---
 
