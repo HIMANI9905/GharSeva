@@ -1,4 +1,4 @@
-# 🏠 GharSeva (ghar-seva) — AI-Powered Home Service Marketplace
+# 🏠 GharSeva — AI-Powered Home Service Marketplace
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 ### **"Har Ghar Ki Har Zarurat, Ek Click Door"** 🇮🇳
 
-🔗 **[Click Here to Visit GitHub Repository](https://github.com/HIMANI9905/GharSeva)** 🚀
+Project Code: https://github.com/HIMANI9905/GharSeva
 
 ---
 
@@ -22,6 +22,8 @@
 **GharSeva** is a full-stack, production-grade web application designed specifically for the Indian home services market. Built as an authentic, modern platform for Indian households, it connects customers directly with verified local service professionals (plumbers, electricians, AC technicians, home cleaners, painters, and carpenters).
 
 The platform features an intelligent **AI Price Estimator Engine** that breaks down repair costs transparently, **Role-Based Access Control** for Customers and Service Helpers, and **Real-Time WebSockets Communication**.
+
+Project Code: https://github.com/HIMANI9905/GharSeva
 
 ---
 
@@ -159,9 +161,9 @@ Visit `http://localhost:5173` in your browser to view the live application!
 
 ---
 
-## 🔗 Links
+## 🔗 Project Link
 
-* **GitHub Repository**: [https://github.com/HIMANI9905/GharSeva](https://github.com/HIMANI9905/GharSeva)
+Project Code: https://github.com/HIMANI9905/GharSeva
 
 ---
 
